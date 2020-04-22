@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='AC_2020_group_project'
